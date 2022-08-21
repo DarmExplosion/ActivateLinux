@@ -1,0 +1,13 @@
+/* Add your custom extension styling here */
+.label-1 {
+    font-weight: normal;
+    color: rgba(255, 255, 255, 1);
+    background-color: rgba(0, 0, 0, 0);
+    border-radius: 5px;
+}
+.label-2 {
+    font-weight: normal;
+    color: rgba(255, 255, 255, 1);
+    background-color: rgba(0, 0, 0, 0);
+    border-radius: 5px;
+}
