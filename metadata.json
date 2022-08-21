@@ -1,0 +1,13 @@
+{
+    "name": "Activate Linux please!",
+    "description": "Fake activate OS watermark a la windows",
+    "uuid": "activate_linux@DarmExplosion",
+    "settings-schema": "org.gnome.shell.extensions.activate_linux",
+    "shell-version": [
+        "40",
+        "41",
+        "42"
+    ],
+    "version": 7,
+    "url": "https://github.com/DarmExplosion/ActivateLinux"
+}
